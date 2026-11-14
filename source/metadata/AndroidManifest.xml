@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="org.earbud.repro.metadata" android:versionCode="1" android:versionName="1.0">
+<uses-sdk android:minSdkVersion="33" android:targetSdkVersion="33"/>
+<uses-permission android:name="android.permission.BLUETOOTH_CONNECT"/>
+<uses-permission android:name="android.permission.BLUETOOTH_SCAN" android:usesPermissionFlags="neverForLocation"/>
+<application android:label="耳机信息上报" android:debuggable="true" android:theme="@android:style/Theme.Material.Light.NoActionBar">
+<activity android:name=".MainActivity" android:exported="true"/>
+</application></manifest>
+

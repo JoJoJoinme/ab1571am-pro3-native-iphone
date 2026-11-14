@@ -1,0 +1,9 @@
+{
+  "readonly": "48 read-only protocol checks passed",
+  "metadata": "1035 metadata protocol checks passed",
+  "fota": "23 staged and active hash proof checks passed",
+  "package_reproduction": "Both generated packages byte-identical to actual tested candidate and offline rollback reference",
+  "negative_cases": "Already-patched, corrupted and actual Pro 2 MCU rejected",
+  "hardware_scope": "Original hardware workflow verified on one Pro 3 pair; repackaged wrappers built and tested offline only",
+  "case_battery_formatter": "32 offline paired scenarios produced identical packets; real intermittent case display remains unresolved"
+}

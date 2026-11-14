@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="org.earbud.repro.fota" android:versionCode="1" android:versionName="1.0">
+<uses-sdk android:minSdkVersion="33" android:targetSdkVersion="33"/>
+<uses-permission android:name="android.permission.BLUETOOTH" android:maxSdkVersion="30"/>
+<uses-permission android:name="android.permission.BLUETOOTH_ADMIN" android:maxSdkVersion="30"/>
+<uses-permission android:name="android.permission.BLUETOOTH_CONNECT"/>
+<uses-permission android:name="android.permission.BLUETOOTH_SCAN" android:usesPermissionFlags="neverForLocation"/>
+<application android:label="耳机升级验证" android:debuggable="true" android:theme="@android:style/Theme.Material.Light.NoActionBar">
+<activity android:name=".MainActivity" android:exported="true" android:launchMode="singleTask" android:configChanges="orientation|screenSize"/>
+</application></manifest>
+

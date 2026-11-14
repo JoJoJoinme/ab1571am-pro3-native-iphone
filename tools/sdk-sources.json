@@ -1,0 +1,38 @@
+[
+  {
+    "name": "libBase-release.aar",
+    "url": "https://raw.githubusercontent.com/HtetAungKyaw3/HeadPhone_APP/main/sdkUtApp/libs/libBase-release.aar",
+    "git_blob_sha1": "3c4c4a16e59affd60689ae51ce973b582073f59d",
+    "sha256": "dcc709e1f22899c0ca53d0a4ad73e492af24eda6e33323642ebba5bdab1f6c9f"
+  },
+  {
+    "name": "libLinker-release.aar",
+    "url": "https://raw.githubusercontent.com/HtetAungKyaw3/HeadPhone_APP/main/sdkUtApp/libs/libLinker-release.aar",
+    "git_blob_sha1": "79cbeb76018441e6c9076e1ef2016e972b2577d2",
+    "sha256": "4631ebc7868291fa3debdfdd0c6d58935092de3b600d0764fe1535f21bb6065c"
+  },
+  {
+    "name": "libLogger-release.aar",
+    "url": "https://raw.githubusercontent.com/HtetAungKyaw3/HeadPhone_APP/main/sdkUtApp/libs/libLogger-release.aar",
+    "git_blob_sha1": "28c7df8182f8becb9da5af75c9f455d3429e824b",
+    "sha256": "d0756a38a19e80436d0ae0a3962d91f4401a31e0f2663e565ef78fd51fd5be1e"
+  },
+  {
+    "name": "libMgrCommon-release.aar",
+    "url": "https://raw.githubusercontent.com/HtetAungKyaw3/HeadPhone_APP/main/sdkUtApp/libs/libMgrCommon-release.aar",
+    "git_blob_sha1": "151feeefefad8f8b3e274820ccf7a3517e669f2e",
+    "sha256": "e61c37ceab9c94db06c97ce543cafbbf703a32709d87bdb1f466193405d24b03"
+  },
+  {
+    "name": "libMgrFota1568-release.aar",
+    "url": "https://raw.githubusercontent.com/HtetAungKyaw3/HeadPhone_APP/main/sdkUtApp/libs/libMgrFota1568-release.aar",
+    "git_blob_sha1": "8b1c8c67c5f4e812b7d0535f3c011afee0689e16",
+    "sha256": "14a6a5b9ee1f75e6e7160ba9cb52e4f7f9aad7b6f460a462e0f3256615660036"
+  },
+  {
+    "name": "libUtils-release.aar",
+    "url": "https://raw.githubusercontent.com/HtetAungKyaw3/HeadPhone_APP/main/sdkUtApp/libs/libUtils-release.aar",
+    "git_blob_sha1": "873c92752dc00ba81ffcd0a95dfe1d77795120f2",
+    "sha256": "5df3d79d805677dc7129946c9509b85733c0f3156592edb27d7ebd6602f772e0"
+  }
+]

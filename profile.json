@@ -1,0 +1,20 @@
+{
+  "version": "0.1.0",
+  "status": "single-pair experimental reproduction kit",
+  "build": "2026/10/12 15:44:12 GMT +08:00",
+  "sdk": "IoT_SDK_for_BT_Audio_V3.10.0.c43sp_YFY_1",
+  "fota_version": "V310.1.865.11",
+  "original_mcu_sha256": "4618fb38ff33a8453ced99e3d797b6ebd5f841039748116d7cc2bf6c7a474fb4",
+  "patched_mcu_sha256": "4e472427dbb9c277a4ea030b2bf383a53e2c030ebd10f5d624e0dbab48c7b9e7",
+  "upgrade_package_sha256": "5a9360a8abdda8231852985c5959d72b031e49bed0cdc84fa4b080e4b39796dc",
+  "rollback_package_sha256": "eb27b920ee9bd52a9b3fa9a3f8ac024e34d4e035d5228eb0d2f7e3020e23df46",
+  "mcu_bytes": 2351104,
+  "package_bytes": 2355200,
+  "mcu_flash_offset": "0x001ca000",
+  "patch_offset": "0x00099b1a",
+  "patch_before": "0020",
+  "patch_after": "0120",
+  "known_remaining_issue": "Charging-case battery usually appears only while taking earbuds out/pairing; mostly absent otherwise",
+  "hardware_rollback_tested": false,
+  "full_firmware_in_public_package": false
+}
